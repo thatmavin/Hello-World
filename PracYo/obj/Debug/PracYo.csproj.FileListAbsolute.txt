@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PracYo\PracYo\bin\Debug\PracYo.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PracYo\PracYo\bin\Debug\PracYo.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PracYo\PracYo\bin\Debug\PracYo.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PracYo\PracYo\obj\Debug\PracYo.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PracYo\PracYo\obj\Debug\PracYo.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PracYo\PracYo\obj\Debug\PracYo.pdb
